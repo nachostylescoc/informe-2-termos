@@ -1,0 +1,141 @@
+\documentclass[12pt]{article}
+\date{}
+\usepackage{tabularx}
+\usepackage{capt-of}
+\usepackage{caption}
+\usepackage[most]{tcolorbox}
+\usepackage[table]{xcolor}
+\usepackage[backend=biber,
+style=apa, sorting=nyt, defernumbers=true]{biblatex}
+\addbibresource{referencias.bib}
+\usepackage{setspace}
+\setlength\bibitemsep{1.2\baselineskip}
+\DeclareFieldFormat{labelnumber}{[#1]}
+\definecolor{lavanda}{rgb}{0.827, 0.827, 1}
+\definecolor{crema}{RGB}{251, 221, 173}
+\usepackage{graphicx}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage[colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=blue]{hyperref}
+\usepackage[margin=2cm]{geometry}
+\usepackage[spanish]{babel}
+\usepackage{anyfontsize}
+\usepackage{float}
+\renewcommand\normalsize{\fontsize{14}{16}\selectfont}
+\setlength{\parindent}{0pt}       
+
+\begin{document}
+
+\begin{titlepage}
+    % Logo arriba izquierda
+    \raggedright
+    \includegraphics[scale=0.1]{udec} % <<--- logo
+    
+    % Espacio
+    \vspace{3cm}
+    
+    % Título centrado con líneas arriba y abajo
+    \centering
+    \rule{0.7\textwidth}{1pt} \\[0.5cm]
+    {\Huge\bfseries \textsc{Laboratorio N°1} \par}
+    \vspace{0.5cm}
+    \rule{0.7\textwidth}{1pt}\par
+    
+    \vfill
+    
+    % Autores centrados
+    {\Large \textsc{Maximiliano Concha \\ Ignacio Villagrán \\ Iván Barría} \par}
+    \vspace{0.5cm}
+    {\Large \textsc{Profesor/Ayudante: \\ Claudio Alonso Faúndez Araya \\ Nikola Alexander Fabián Salazar Varas}}    \\
+    \vspace{1cm}
+    {\large Universidad de Concepción \\ 22 de septiembre de 2025}
+\end{titlepage}
+\newpage
+\section*{Introducción}
+A lo largo de la historia de la termodinámica, el estudio de los gases y 
+su comportamiento frente a distintas condiciones (como de presión, 
+volumen y temperatura) constituye uno de los pilares fundamentales de 
+esta rama de la física. Las leyes de los gases ideales nos dan las 
+herramientas para comprender y poder predecir el comportamiento de los 
+sistemas a estudiar -en particular sistemas gaseosos-.  En el presente 
+laboratorio se busca comprobar mediante una simulación (disponible en la 
+siguiente pagina web \url{https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties_es.html}) 
+dichas leyes, que explican de manera muy precisa como se comportan los 
+gases bajo ciertas condiciones iniciales. \\
+
+Sirviéndonos de la simulación, se entregaran gráficos que evidencien las 
+relaciones entre las propiedades termodinámicas anteriormente mencionadas.
+De este modo, mediante los datos obtenidos, se tiene como expectativa 
+observar la validez de las leyes vistas a lo largo del curso como las 
+leyes de Boyle, Charles y Gay-Lussac, y como consecuencia observar la 
+validez de la ecuación general de los gases ideales $PV=nRT$. El estudio 
+y análisis realizado permitirá  acrecentar la comprensión de los 
+principios teóricos de manera experimental (gracias a los datos obtenidos 
+de la simulación) y visual (entregando gráficos), a su vez acrecentando 
+también el entendimiento de los principios matemáticos que rigen a todos 
+estos procesos termodinámicos.
+
+\section*{Marco Teórico}
+Las leyes de los gases ideales son una herramienta muy importante a la 
+hora de estudiar y analizar el comportamiento de gases sometidos a ciertas 
+condiciones iniciales. \\
+
+\textbf{Ley de los gases ideales:} La presión $P$, la temperatura $T$, y el volumen 
+$V$ de un gas ideal, están relacionados por una simple fórmula llamada 
+la ley del gas ideal, cuya expresión matemática es:
+\[
+PV=nRT
+\]
+Donde $P$ es la presión del gas, $V$ es el volumen que ocupa, $T$ es su 
+temperatura, $R$ es la constante del gas ideal, y $n$ es el número de moles
+del gas. \parencite{khanleygasesideales} \\
+
+Las siguientes leyes son casos particulares de la ley de los gases ideales,
+donde se mantiene una variable constante. $T_1, V_1, P_1$ son las condiciones
+iniciales y $T_2, V_2, P_2$ las condiciones finales de temperatura, 
+volumen y presión respectivamente.
+\newpage
+\textbf{Ley de Boyle:} Establece que la presión de un gas en un recipiente 
+cerrado es inversamente proporcional al volumen del recipiente, cuando la 
+temperatura es constante. \parencite{educaplusleyboyle} Matemáticamente se 
+expresa como:
+\[
+P_1V_1=P_2V_2
+\]
+
+\textbf{Ley de Charles:} Establece que, a presión 
+constante, el volumen de un gas es directamente proporcional a su 
+temperatura absoluta. \parencite{masamleycharles} Matemáticamente, esta 
+relación se expresa de la siguiente manera:
+\[
+\dfrac{V_1}{T_1}=\dfrac{V_2}{T_2}
+\]
+
+\textbf{Ley de Gay-Lussac:} Cuando aumenta la temperatura de una muestra 
+de gas en un recipiente rígido, también aumenta la presión del gas. El 
+aumento de la energía cinética hace que las moléculas de gas golpeen las 
+paredes del recipiente con mayor fuerza, lo que genera una mayor presión.
+\parencite{libretextsgaylussac} Su expresión matemática es:
+\[
+\dfrac{P_1}{T_1}=\dfrac{P_2}{T_2}
+\]
+
+\section*{Materiales}
+\begin{itemize}
+    \item Recipiente con gas
+    \item Pistón
+    \item Termómetro
+    \item Barómetro
+    \item Regularizador de temperatura
+    \item Bomba de moléculas
+\end{itemize}
+
+\section*{Procedimientos}
+nose papu :V
+\section*{Conclusión}
+
+
+\newpage
+\printbibliography[heading=bibintoc]
+
+\end{document}

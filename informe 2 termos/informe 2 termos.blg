@@ -1,22 +1,23 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'informe 2 termos.blg'
-[152] biber-MSWIN64:340> INFO - === 
-[219] Biber.pm:420> INFO - Reading 'informe 2 termos.bcf'
-[414] Biber.pm:994> INFO - Found 4 citekeys in bib section 0
-[447] Biber.pm:4463> INFO - Processing section 0
-[462] Biber.pm:4654> INFO - Looking for bibtex file 'referencias.bib' for section 0
-[560] bibtex.pm:1713> INFO - LaTeX decoding ...
-[576] bibtex.pm:1519> INFO - Found BibTeX data source 'referencias.bib'
-[656] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[656] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[657] Biber.pm:4283> INFO - Sorting list 'nyt/apasortcite//global/global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[671] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[671] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[671] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[680] bbl.pm:676> INFO - Writing 'informe 2 termos.bbl' with encoding 'UTF-8'
-[685] bbl.pm:779> INFO - Output to informe 2 termos.bbl
-[685] Biber.pm:131> WARN - legacy year field 's.f.' in entry 'khanleygasesideales' is not an integer - this will probably not sort properly.
-[685] Biber.pm:131> WARN - legacy year field 's.f.' in entry 'educaplusleyboyle' is not an integer - this will probably not sort properly.
-[685] Biber.pm:131> WARN - legacy year field 's.f.' in entry 'masamleycharles' is not an integer - this will probably not sort properly.
-[685] Biber.pm:131> WARN - legacy year field 's.f.' in entry 'libretextsgaylussac' is not an integer - this will probably not sort properly.
-[686] Biber.pm:133> INFO - WARNINGS: 4
+[118] biber-MSWIN64:340> INFO - === 
+[174] Biber.pm:420> INFO - Reading 'informe 2 termos.bcf'
+[297] Biber.pm:994> INFO - Found 8 citekeys in bib section 0
+[312] Biber.pm:4463> INFO - Processing section 0
+[324] Biber.pm:4654> INFO - Looking for bibtex file 'referencias.bib' for section 0
+[423] bibtex.pm:1713> INFO - LaTeX decoding ...
+[433] bibtex.pm:1519> INFO - Found BibTeX data source 'referencias.bib'
+[502] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[503] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[503] Biber.pm:4283> INFO - Sorting list 'nyt/apasortcite//global/global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[516] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[516] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[516] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[525] bbl.pm:676> INFO - Writing 'informe 2 termos.bbl' with encoding 'UTF-8'
+[530] bbl.pm:779> INFO - Output to informe 2 termos.bbl
+[531] Biber.pm:131> WARN - legacy year field 's.f.' in entry 'khanleygasesideales' is not an integer - this will probably not sort properly.
+[531] Biber.pm:131> WARN - legacy year field 's.f.' in entry 'educaplusleyboyle' is not an integer - this will probably not sort properly.
+[531] Biber.pm:131> WARN - legacy year field 's.f.' in entry 'masamleycharles' is not an integer - this will probably not sort properly.
+[532] Biber.pm:131> WARN - legacy year field 's.f.' in entry 'libretextsgaylussac' is not an integer - this will probably not sort properly.
+[532] Biber.pm:131> WARN - legacy year field 's.f.' in entry 'upm_trabajo_termodinamica' is not an integer - this will probably not sort properly.
+[532] Biber.pm:133> INFO - WARNINGS: 5

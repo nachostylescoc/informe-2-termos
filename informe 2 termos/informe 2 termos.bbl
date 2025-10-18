@@ -19,6 +19,41 @@
 
 \refsection{0}
   \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{khanacademy_pv_diagrams_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=60b71e8d3f6c088495d6e63a3d4ef713}{%
+           family={Academy},
+           familyi={A\bibinitperiod},
+           given={Khan},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \strng{fullhash}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \strng{fullhashraw}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \strng{bibnamehash}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \strng{authorbibnamehash}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \strng{authornamehash}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \strng{authorfullhash}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \strng{authorfullhashraw}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accedido: 2025-10-16}
+      \field{title}{¿Qué son los diagramas P-V?}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://es.khanacademy.org/science/physics/thermodynamics/laws-of-thermodynamics/a/what-are-pv-diagrams
+      \endverb
+      \verb{url}
+      \verb https://es.khanacademy.org/science/physics/thermodynamics/laws-of-thermodynamics/a/what-are-pv-diagrams
+      \endverb
+    \endentry
     \entry{khanleygasesideales}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=60b71e8d3f6c088495d6e63a3d4ef713}{%
@@ -36,6 +71,7 @@
       \strng{authornamehash}{60b71e8d3f6c088495d6e63a3d4ef713}
       \strng{authorfullhash}{60b71e8d3f6c088495d6e63a3d4ef713}
       \strng{authorfullhashraw}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \field{extraname}{2}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -52,6 +88,31 @@
       \verb{url}
       \verb https://es.khanacademy.org/science/physics/thermodynamics/temp-kinetic-theory-ideal-gas-law/a/what-is-the-ideal-gas-law
       \endverb
+    \endentry
+    \entry{condetema}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8627313fd56d10d182af435c1ea7d9e3}{%
+           family={Conde},
+           familyi={C\bibinitperiod},
+           given={Fátima\bibnamedelima Masot},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8627313fd56d10d182af435c1ea7d9e3}
+      \strng{fullhash}{8627313fd56d10d182af435c1ea7d9e3}
+      \strng{fullhashraw}{8627313fd56d10d182af435c1ea7d9e3}
+      \strng{bibnamehash}{8627313fd56d10d182af435c1ea7d9e3}
+      \strng{authorbibnamehash}{8627313fd56d10d182af435c1ea7d9e3}
+      \strng{authornamehash}{8627313fd56d10d182af435c1ea7d9e3}
+      \strng{authorfullhash}{8627313fd56d10d182af435c1ea7d9e3}
+      \strng{authorfullhashraw}{8627313fd56d10d182af435c1ea7d9e3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tema 10: Gas Ideal}
     \endentry
     \entry{masamleycharles}{online}{}{}
       \name{author}{1}{}{%
@@ -118,6 +179,41 @@
       \verb https://www.educaplus.org/gases/ley_boyle.html
       \endverb
     \endentry
+    \entry{nationalgeographic_avogadro_2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0cd33536898717c4bf489ba127d5610c}{%
+           family={Geographic},
+           familyi={G\bibinitperiod},
+           given={National},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0cd33536898717c4bf489ba127d5610c}
+      \strng{fullhash}{0cd33536898717c4bf489ba127d5610c}
+      \strng{fullhashraw}{0cd33536898717c4bf489ba127d5610c}
+      \strng{bibnamehash}{0cd33536898717c4bf489ba127d5610c}
+      \strng{authorbibnamehash}{0cd33536898717c4bf489ba127d5610c}
+      \strng{authornamehash}{0cd33536898717c4bf489ba127d5610c}
+      \strng{authorfullhash}{0cd33536898717c4bf489ba127d5610c}
+      \strng{authorfullhashraw}{0cd33536898717c4bf489ba127d5610c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{National Geographic España}
+      \field{note}{Consultado el 16 de octubre de 2025: 2025-10-16}
+      \field{title}{El número de Avogadro: la constante que se llevó el Nobel}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.nationalgeographic.com.es/ciencia/numero-avogadro-constante-que-se-llevo-nobel_22087
+      \endverb
+      \verb{url}
+      \verb https://www.nationalgeographic.com.es/ciencia/numero-avogadro-constante-que-se-llevo-nobel_22087
+      \endverb
+    \endentry
     \entry{libretextsgaylussac}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c6a11616932f1e86aab9516f51b9537a}{%
@@ -147,10 +243,76 @@
       \endverb
       \verb{url}
       \verb https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Introductory_Chemistry_(CK-12)/14%3A_The_Behavior_of_Gases/14.05%3A_Gay-Lussac's_Law
+      \endverb
+    \endentry
+    \entry{upm_trabajo_termodinamica}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2417cc15c1b982e841ba561dc7c82516}{%
+           family={{Universidad Politécnica de Madrid}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{2417cc15c1b982e841ba561dc7c82516}
+      \strng{fullhash}{2417cc15c1b982e841ba561dc7c82516}
+      \strng{fullhashraw}{2417cc15c1b982e841ba561dc7c82516}
+      \strng{bibnamehash}{2417cc15c1b982e841ba561dc7c82516}
+      \strng{authorbibnamehash}{2417cc15c1b982e841ba561dc7c82516}
+      \strng{authornamehash}{2417cc15c1b982e841ba561dc7c82516}
+      \strng{authorfullhash}{2417cc15c1b982e841ba561dc7c82516}
+      \strng{authorfullhashraw}{2417cc15c1b982e841ba561dc7c82516}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Recuperado el 18 de octubre de 2025}
+      \field{title}{Trabajo en Termodinámica}
+      \field{year}{s.f.}
+      \verb{urlraw}
+      \verb https://www2.montes.upm.es/dptos/digfa/cfisica/termo1p/trabajo.html
+      \endverb
+      \verb{url}
+      \verb https://www2.montes.upm.es/dptos/digfa/cfisica/termo1p/trabajo.html
       \endverb
     \endentry
   \enddatalist
   \datalist[entry]{nyt/global//global/global/global}
+    \entry{khanacademy_pv_diagrams_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=60b71e8d3f6c088495d6e63a3d4ef713}{%
+           family={Academy},
+           familyi={A\bibinitperiod},
+           given={Khan},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \strng{fullhash}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \strng{fullhashraw}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \strng{bibnamehash}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \strng{authorbibnamehash}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \strng{authornamehash}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \strng{authorfullhash}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \strng{authorfullhashraw}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accedido: 2025-10-16}
+      \field{title}{¿Qué son los diagramas P-V?}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://es.khanacademy.org/science/physics/thermodynamics/laws-of-thermodynamics/a/what-are-pv-diagrams
+      \endverb
+      \verb{url}
+      \verb https://es.khanacademy.org/science/physics/thermodynamics/laws-of-thermodynamics/a/what-are-pv-diagrams
+      \endverb
+    \endentry
     \entry{khanleygasesideales}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=60b71e8d3f6c088495d6e63a3d4ef713}{%
@@ -168,6 +330,7 @@
       \strng{authornamehash}{60b71e8d3f6c088495d6e63a3d4ef713}
       \strng{authorfullhash}{60b71e8d3f6c088495d6e63a3d4ef713}
       \strng{authorfullhashraw}{60b71e8d3f6c088495d6e63a3d4ef713}
+      \field{extraname}{2}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -184,6 +347,31 @@
       \verb{url}
       \verb https://es.khanacademy.org/science/physics/thermodynamics/temp-kinetic-theory-ideal-gas-law/a/what-is-the-ideal-gas-law
       \endverb
+    \endentry
+    \entry{condetema}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8627313fd56d10d182af435c1ea7d9e3}{%
+           family={Conde},
+           familyi={C\bibinitperiod},
+           given={Fátima\bibnamedelima Masot},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8627313fd56d10d182af435c1ea7d9e3}
+      \strng{fullhash}{8627313fd56d10d182af435c1ea7d9e3}
+      \strng{fullhashraw}{8627313fd56d10d182af435c1ea7d9e3}
+      \strng{bibnamehash}{8627313fd56d10d182af435c1ea7d9e3}
+      \strng{authorbibnamehash}{8627313fd56d10d182af435c1ea7d9e3}
+      \strng{authornamehash}{8627313fd56d10d182af435c1ea7d9e3}
+      \strng{authorfullhash}{8627313fd56d10d182af435c1ea7d9e3}
+      \strng{authorfullhashraw}{8627313fd56d10d182af435c1ea7d9e3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tema 10: Gas Ideal}
     \endentry
     \entry{masamleycharles}{online}{}{}
       \name{author}{1}{}{%
@@ -250,6 +438,41 @@
       \verb https://www.educaplus.org/gases/ley_boyle.html
       \endverb
     \endentry
+    \entry{nationalgeographic_avogadro_2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0cd33536898717c4bf489ba127d5610c}{%
+           family={Geographic},
+           familyi={G\bibinitperiod},
+           given={National},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0cd33536898717c4bf489ba127d5610c}
+      \strng{fullhash}{0cd33536898717c4bf489ba127d5610c}
+      \strng{fullhashraw}{0cd33536898717c4bf489ba127d5610c}
+      \strng{bibnamehash}{0cd33536898717c4bf489ba127d5610c}
+      \strng{authorbibnamehash}{0cd33536898717c4bf489ba127d5610c}
+      \strng{authornamehash}{0cd33536898717c4bf489ba127d5610c}
+      \strng{authorfullhash}{0cd33536898717c4bf489ba127d5610c}
+      \strng{authorfullhashraw}{0cd33536898717c4bf489ba127d5610c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{National Geographic España}
+      \field{note}{Consultado el 16 de octubre de 2025: 2025-10-16}
+      \field{title}{El número de Avogadro: la constante que se llevó el Nobel}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.nationalgeographic.com.es/ciencia/numero-avogadro-constante-que-se-llevo-nobel_22087
+      \endverb
+      \verb{url}
+      \verb https://www.nationalgeographic.com.es/ciencia/numero-avogadro-constante-que-se-llevo-nobel_22087
+      \endverb
+    \endentry
     \entry{libretextsgaylussac}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c6a11616932f1e86aab9516f51b9537a}{%
@@ -279,6 +502,37 @@
       \endverb
       \verb{url}
       \verb https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Introductory_Chemistry_(CK-12)/14%3A_The_Behavior_of_Gases/14.05%3A_Gay-Lussac's_Law
+      \endverb
+    \endentry
+    \entry{upm_trabajo_termodinamica}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2417cc15c1b982e841ba561dc7c82516}{%
+           family={{Universidad Politécnica de Madrid}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{2417cc15c1b982e841ba561dc7c82516}
+      \strng{fullhash}{2417cc15c1b982e841ba561dc7c82516}
+      \strng{fullhashraw}{2417cc15c1b982e841ba561dc7c82516}
+      \strng{bibnamehash}{2417cc15c1b982e841ba561dc7c82516}
+      \strng{authorbibnamehash}{2417cc15c1b982e841ba561dc7c82516}
+      \strng{authornamehash}{2417cc15c1b982e841ba561dc7c82516}
+      \strng{authorfullhash}{2417cc15c1b982e841ba561dc7c82516}
+      \strng{authorfullhashraw}{2417cc15c1b982e841ba561dc7c82516}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Recuperado el 18 de octubre de 2025}
+      \field{title}{Trabajo en Termodinámica}
+      \field{year}{s.f.}
+      \verb{urlraw}
+      \verb https://www2.montes.upm.es/dptos/digfa/cfisica/termo1p/trabajo.html
+      \endverb
+      \verb{url}
+      \verb https://www2.montes.upm.es/dptos/digfa/cfisica/termo1p/trabajo.html
       \endverb
     \endentry
   \enddatalist
